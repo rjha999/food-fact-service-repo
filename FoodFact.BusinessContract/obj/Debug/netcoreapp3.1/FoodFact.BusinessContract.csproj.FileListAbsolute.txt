@@ -1,0 +1,12 @@
+C:\Users\Rahul\source\repos\FoodFact\FoodFact.BusinessContract\bin\Debug\netcoreapp3.1\FoodFact.BusinessContract.deps.json
+C:\Users\Rahul\source\repos\FoodFact\FoodFact.BusinessContract\bin\Debug\netcoreapp3.1\FoodFact.BusinessContract.dll
+C:\Users\Rahul\source\repos\FoodFact\FoodFact.BusinessContract\bin\Debug\netcoreapp3.1\FoodFact.BusinessContract.pdb
+C:\Users\Rahul\source\repos\FoodFact\FoodFact.BusinessContract\obj\Debug\netcoreapp3.1\FoodFact.BusinessContract.csproj.CoreCompileInputs.cache
+C:\Users\Rahul\source\repos\FoodFact\FoodFact.BusinessContract\obj\Debug\netcoreapp3.1\FoodFact.BusinessContract.AssemblyInfoInputs.cache
+C:\Users\Rahul\source\repos\FoodFact\FoodFact.BusinessContract\obj\Debug\netcoreapp3.1\FoodFact.BusinessContract.AssemblyInfo.cs
+C:\Users\Rahul\source\repos\FoodFact\FoodFact.BusinessContract\obj\Debug\netcoreapp3.1\FoodFact.BusinessContract.dll
+C:\Users\Rahul\source\repos\FoodFact\FoodFact.BusinessContract\obj\Debug\netcoreapp3.1\FoodFact.BusinessContract.pdb
+C:\Users\Rahul\source\repos\FoodFact\FoodFact.BusinessContract\bin\Debug\netcoreapp3.1\FoodFact.DTO.dll
+C:\Users\Rahul\source\repos\FoodFact\FoodFact.BusinessContract\bin\Debug\netcoreapp3.1\FoodFact.DTO.pdb
+C:\Users\Rahul\source\repos\FoodFact\FoodFact.BusinessContract\obj\Debug\netcoreapp3.1\FoodFact.BusinessContract.csprojAssemblyReference.cache
+C:\Users\Rahul\source\repos\FoodFact\FoodFact.BusinessContract\obj\Debug\netcoreapp3.1\FoodFact.BusinessContract.csproj.CopyComplete

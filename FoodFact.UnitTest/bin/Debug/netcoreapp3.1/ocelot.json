@@ -1,0 +1,26 @@
+{
+  "ReRoutes": [
+    {
+      "DownstreamPathTemplate": "/api/foodfact",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "192.168.99.100",
+          "Port": "8081"
+        }
+      ],
+
+      "UpstreamPathTemplate": "/foodfact",
+      "UpstreamHttpMethod": [ "GET", "POST" ],
+      "RateLimitOptions": {
+        "ClientWhiteList": [],
+        "EnableRateLimiting": true,
+        "Period": "3s",
+        "PeriodTimeSpan": 5,
+        "Limit": 3
+
+      }
+    }
+
+  ]
+}

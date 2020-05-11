@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZcXX0oR+6pDO5p+BVHz/JDn/yRn9TIicXBBX0Lp8iSoGXeeXL9QkrhtBuA2gwjpHBwZEjGMaA01VJ/vlhOcGcA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rahul\\source\\repos\\FoodFact\\FoodFact.Business\\FoodFact.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rahul\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,8 @@
+C:\Users\Rahul\source\repos\FoodFact\FoodFact.DTO\bin\Debug\netcoreapp3.1\FoodFact.DTO.deps.json
+C:\Users\Rahul\source\repos\FoodFact\FoodFact.DTO\bin\Debug\netcoreapp3.1\FoodFact.DTO.dll
+C:\Users\Rahul\source\repos\FoodFact\FoodFact.DTO\bin\Debug\netcoreapp3.1\FoodFact.DTO.pdb
+C:\Users\Rahul\source\repos\FoodFact\FoodFact.DTO\obj\Debug\netcoreapp3.1\FoodFact.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Rahul\source\repos\FoodFact\FoodFact.DTO\obj\Debug\netcoreapp3.1\FoodFact.DTO.AssemblyInfoInputs.cache
+C:\Users\Rahul\source\repos\FoodFact\FoodFact.DTO\obj\Debug\netcoreapp3.1\FoodFact.DTO.AssemblyInfo.cs
+C:\Users\Rahul\source\repos\FoodFact\FoodFact.DTO\obj\Debug\netcoreapp3.1\FoodFact.DTO.dll
+C:\Users\Rahul\source\repos\FoodFact\FoodFact.DTO\obj\Debug\netcoreapp3.1\FoodFact.DTO.pdb
